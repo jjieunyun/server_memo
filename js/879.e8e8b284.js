@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[879],{879:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var l=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"pageView"},[n("h1",[e._v("title")]),n("p",[e._v("메모내용")])])}],u={data(){return{}}},c=u,a=n(1),i=(0,a.Z)(c,l,r,!1,null,null,null),s=i.exports}}]);
+//# sourceMappingURL=879.e8e8b284.js.map
